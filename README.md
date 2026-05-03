@@ -45,7 +45,8 @@
 
 ## 使用方法
 
-1. https://eyework-net.github.io/iol-calculation-stability-simulator/　をブラウザで開いてください。
+1. https://eyework-net.github.io/iol-calculation-stability-simulator/　
+をブラウザで開いてください。
 2. 各パラメータを変更すると結果がリアルタイムで更新されます。
 3. 条件による変化や各因子の影響を観察してください。
 
